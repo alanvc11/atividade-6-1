@@ -1,0 +1,14 @@
+img{
+    height: 50%;
+    width: 60%;
+    margin-right: 520px;
+}
+.center-img{
+    text-align: center;
+}
+.center-img figcaption{
+    text-align: left;
+}
+h1{
+    color: black;
+}
